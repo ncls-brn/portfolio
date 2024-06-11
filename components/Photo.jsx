@@ -26,7 +26,7 @@ const Photo = () => {
             src="/assets/me5.png"
             priority
             quality={100}
-            fill
+            layout="fill"
             alt="me"
             className="object-contain"
           />
