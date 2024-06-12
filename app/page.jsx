@@ -3,7 +3,7 @@ import Social from "@/components/Social";
 import Stats from "@/components/Stats";
 import { Button } from "@/components/ui/button";
 import { FiDownload } from "react-icons/fi";
-//import CV from "@/public/assets/resume/cv.pdf";
+import { Analytics } from "@vercel/analytics/react";
 
 const Home = () => {
   return (
@@ -53,6 +53,7 @@ const Home = () => {
         </div>
       </div>
       <Stats />
+      <Analytics />
     </section>
   );
 };
