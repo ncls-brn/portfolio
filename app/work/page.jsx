@@ -20,6 +20,16 @@ const projects = [
   {
     num: "01",
     category: "frontend",
+    title: "Coming soon",
+    description: "It's a responsive website that provides a countdown.",
+    stack: [{ name: "Html5" }, { name: "Css 3" }, { name: "Javascript" }],
+    image: "/assets/work/coming.png",
+    live: "https://coming-soon-peaches.vercel.app/",
+    github: "https://github.com/ncls-brn/coming-soon",
+  },
+  {
+    num: "02",
+    category: "frontend",
     title: "Dataviz",
     description:
       "It's a responsive website that provides informations about space.",
@@ -29,7 +39,7 @@ const projects = [
     github: "https://github.com/ncls-brn/ncls-brn.github.io",
   },
   {
-    num: "02",
+    num: "03",
     category: "Game",
     title: "Trump VS Panda",
     description:
@@ -41,7 +51,7 @@ const projects = [
   },
 
   {
-    num: "03",
+    num: "04",
     category: "frontend",
     title: "Travel",
     description:
@@ -57,7 +67,7 @@ const projects = [
     github: "https://github.com/ncls-brn/travel",
   },
   {
-    num: "04",
+    num: "05",
     category: "frontend",
     title: "Meal",
     description:
@@ -73,7 +83,7 @@ const projects = [
     github: "https://github.com/ncls-brn/meal-app",
   },
   {
-    num: "05",
+    num: "06",
     category: "fullstack",
     title: "Netflix Application",
     description:
@@ -84,7 +94,7 @@ const projects = [
     github: "https://github.com/ncls-brn/netflix",
   },
   {
-    num: "06",
+    num: "07",
     category: "fullstack",
     title: "CineMatch",
     description:
@@ -98,16 +108,6 @@ const projects = [
     image: "/assets/work/cinematch.png",
     live: "https://cinematch-app.vercel.app/login",
     github: "https://github.com/ncls-brn/movie-app-v4",
-  },
-  {
-    num: "07",
-    category: "frontend",
-    title: "Coming soon",
-    description: "It's a responsive website that provides a countdown.",
-    stack: [{ name: "Html5" }, { name: "Css 3" }, { name: "Javascript" }],
-    image: "/assets/work/coming.png",
-    live: "https://coming-soon-peaches.vercel.app/",
-    github: "https://github.com/ncls-brn/coming-soon",
   },
 ];
 
