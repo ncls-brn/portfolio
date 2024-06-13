@@ -22,7 +22,7 @@ const projects = [
     category: "frontend",
     title: "Dataviz",
     description:
-      "It's a responsive website that provides informations about space",
+      "It's a responsive website that provides informations about space.",
     stack: [{ name: "Html5" }, { name: "Css 3" }, { name: "Javascript" }],
     image: "/assets/work/dataviz.png",
     live: "https://ncls-brn.github.io/",
@@ -98,6 +98,16 @@ const projects = [
     image: "/assets/work/cinematch.png",
     live: "https://cinematch-app.vercel.app/login",
     github: "https://github.com/ncls-brn/movie-app-v4",
+  },
+  {
+    num: "07",
+    category: "frontend",
+    title: "Coming soon",
+    description: "It's a responsive website that provides a countdown.",
+    stack: [{ name: "Html5" }, { name: "Css 3" }, { name: "Javascript" }],
+    image: "/assets/work/coming.png",
+    live: "https://coming-soon-peaches.vercel.app/",
+    github: "https://github.com/ncls-brn/coming-soon",
   },
 ];
 
