@@ -93,6 +93,7 @@ const projects = [
     live: "https://netflix-app-indol.vercel.app/auth",
     github: "https://github.com/ncls-brn/netflix",
   },
+  /*
   {
     num: "07",
     category: "fullstack",
@@ -109,6 +110,7 @@ const projects = [
     live: "https://cinematch-app.vercel.app/login",
     github: "https://github.com/ncls-brn/movie-app-v4",
   },
+  */
 ];
 
 const Work = () => {
