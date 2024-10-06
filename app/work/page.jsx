@@ -41,7 +41,7 @@ const projects = [
   {
     num: "03",
     category: "Game",
-    title: "Trump VS Panda",
+    title: "Trump Vs Panda",
     description:
       "It's a video game where you play as a panda to save the world.",
     stack: [{ name: "C" }, { name: "Other" }],
@@ -51,6 +51,8 @@ const projects = [
   },
 
   {
+
+    Authorizing will redirect to 
     num: "04",
     category: "frontend",
     title: "Travel",
