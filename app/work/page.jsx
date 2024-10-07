@@ -20,7 +20,7 @@ const projects = [
   {
     num: "01",
     category: "frontend",
-    title: "Coming soon",
+    title: "Coming Soon",
     description: "It's a responsive website that provides a countdown.",
     stack: [{ name: "Html5" }, { name: "Css 3" }, { name: "Javascript" }],
     image: "/assets/work/coming.png",
