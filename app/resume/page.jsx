@@ -98,7 +98,7 @@ const education = {
   icon: "/assets/resume/education.svg",
   title: "My education",
   description:
-    "Obtained a degree in web development after 10 years in the French Army.",
+    "Graduated in web development after 10 years in the French army.",
   items: [
     {
       institution: "Hexagone",
