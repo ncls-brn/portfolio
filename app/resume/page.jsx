@@ -50,7 +50,7 @@ const about = {
     },
     {
       fieldName: "Email:",
-      fieldValue: "nicolas.j.baran[@]gmail.com",
+      fieldValue: "nicolas.j.baran[@]gmail[dot]com",
     },
   ],
 };
@@ -65,7 +65,7 @@ const experience = {
     {
       company: "Mediametrie",
       position: "CISO assistant (apprenticeship)",
-      duration: "2024-2026",
+      duration: "2024-today",
       description:
         "Reporting to the CISO, implement and monitor IT security policies, ensuring the protection of the company's data and digital infrastructures. Involvement in risk analysis, employee awareness-raising and monitoring the application of security standards.",
     },
