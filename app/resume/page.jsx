@@ -63,6 +63,13 @@ const experience = {
     "After 10 years as an Staff Sergeant officer in the French Army, I decided to move into the digital sector. Having obtained a degree in web development, I now wish to specialize in cybersecurity, a field that echoes my background and my appetite for risk management. ",
   items: [
     {
+      company: "Mediametrie",
+      position: "CISO assistant (apprenticeship)",
+      duration: "2024-2026",
+      description:
+        "Reporting to the CISO, implement and monitor IT security policies, ensuring the protection of the company's data and digital infrastructures. Involvement in risk analysis, employee awareness-raising and monitoring the application of security standards.",
+    },
+    {
       company: "Withings",
       position: "QA tester (apprenticeship)",
       duration: "2023-2024",
