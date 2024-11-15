@@ -30,7 +30,7 @@ const about = {
   info: [
     {
       fieldName: "Name:",
-      fieldValue: "Nicolas B",
+      fieldValue: "Nicolas Baran",
     },
     {
       fieldName: "Phone:",
