@@ -21,6 +21,7 @@ import {
 } from "@/components/ui/tooltip";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { motion } from "framer-motion";
+import { FaC } from "react-icons/fa6";
 
 //about
 const about = {
@@ -34,7 +35,7 @@ const about = {
     },
     {
       fieldName: "Phone:",
-      fieldValue: "(+33)6.79.27.34.7[1]",
+      fieldValue: "On demand",
     },
     {
       fieldName: "Experience:",
@@ -50,7 +51,7 @@ const about = {
     },
     {
       fieldName: "Email:",
-      fieldValue: "nicolas.j.baran[@]gmail[dot]com",
+      fieldValue: "On demand",
     },
   ],
 };
@@ -181,6 +182,10 @@ const skills = {
       icon: <FaGit />,
       name: "git",
     },
+    {
+      icon:<FaC />,
+      name:"C",
+    }
   ],
 };
 

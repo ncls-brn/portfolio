@@ -21,12 +21,12 @@ const info = [
   {
     icon: <FaPhoneAlt />,
     title: "Phone:",
-    description: "(+33)6.79.27.34.7[1]",
+    description: "On demand",
   },
   {
     icon: <FaEnvelope />,
     title: "Email:",
-    description: "nicolas.j.baran[@]gmail[dot]com",
+    description: "On demand",
   },
   {
     icon: <FaLinkedin />,
