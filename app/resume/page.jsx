@@ -22,6 +22,7 @@ import {
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { motion } from "framer-motion";
 import { FaC } from "react-icons/fa6";
+import { DiLinux } from "react-icons/di";
 
 //about
 const about = {
@@ -185,7 +186,11 @@ const skills = {
     {
       icon:<FaC />,
       name:"C",
-    }
+    },
+    {
+      icon:<DiLinux />,
+      name:"linux",
+    },
   ],
 };
 
