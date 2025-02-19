@@ -16,7 +16,7 @@ const Home = () => {
             <h1 className="h1 mb-6">
               Hello I'm
               <br />
-              <span className="text-accent">Nicolas Baran</span>
+              <span className="text-accent">Nicolas B</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
               I was able to experience through practice many tools and daily

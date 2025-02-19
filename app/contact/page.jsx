@@ -32,7 +32,7 @@ const info = [
     icon: <FaLinkedin />,
     title: "Linkedin:",
     description: "https://www.linkedin.com/in/nicolas-baran/",
-    alias: "Nicolas Baran ",
+    alias: "Nicolas B ",
   },
 ];
 
