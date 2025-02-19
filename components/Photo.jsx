@@ -1,11 +1,12 @@
 "use client";
 
 import { motion } from "framer-motion";
+import { Repeat } from "lucide-react";
 import Image from "next/image";
 
 const Photo = () => {
   return (
-    <div className="w-full h-full relative flex items-center justify-center">
+    <div className="w-full h-full relative">
       <motion.div
         initial={{ opacity: 0 }}
         animate={{
@@ -13,7 +14,6 @@ const Photo = () => {
           transition: { delay: 2, duration: 0.4, ease: "easeIn" },
         }}
       >
-        {/* Image */}
         <motion.div
           initial={{ opacity: 0 }}
           animate={{
@@ -31,18 +31,17 @@ const Photo = () => {
             className="object-contain"
           />
         </motion.div>
-
-        {/* Circle */}
+        {/*circle*/}
         <motion.svg
-          className="w-[600px] xl:w-[800px] h-[600px] xl:h-[800px]"
+          className="w-[300px] xl:w-[506px] h-[300px] xl:h-[506px]"
           fill="transparent"
-          viewBox="0 0 600 600"
+          viewBox="0 0 506 506"
           xmlns="http://www.w3.org/2000/svg"
         >
           <motion.circle
-            cx="300"
-            cy="300"
-            r="290"
+            cx="253"
+            cy="253"
+            r="250"
             stroke="#00ff99"
             strokeWidth="4"
             strokeLinecap="round"
