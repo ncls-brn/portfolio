@@ -41,7 +41,7 @@ const Photo = () => {
           <motion.circle
             cx="310"
             cy="310"
-            r="300"
+            r="250"
             stroke="#00ff99"
             strokeWidth="4"
             strokeLinecap="round"
