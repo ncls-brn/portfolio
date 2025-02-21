@@ -27,7 +27,7 @@ const Home = () => {
             {/*button social*/}
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <a
-                href="/contact"
+                href="https://www.linkedin.com/in/b-nicolas/" 
                 download
                 target="_blank"
                 rel="noopener noreferrer"
